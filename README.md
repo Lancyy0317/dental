@@ -1,9 +1,5 @@
 Dental Clinic CRUD with simple auth
 
-Login credentials:
-  username: lance
-  password: lance
-
 Setup:
 1. Copy .env.example to .env.local and fill supabase values and AUTH_SECRET.
 2. npm install
